@@ -4,7 +4,7 @@
 
 > **Tools:** MySQL · Power BI · DAX  ·  **Dataset:** IBM Telco Customer Churn (7,043 subscribers)  ·  **Type:** End-to-end data analysis portfolio
 
-![Dashboard Preview](Screenshot%202026-07-19%20082402.png)
+![Dashboard Preview](dashboard.png)
 
 ## Overview
 
@@ -27,7 +27,7 @@ A complete subscriber churn analysis system for the Bangladesh telecom market, c
 ```
 telecom-churn-dashboard/
 ├── README.md                       ← You are here
-├── Screenshot 2026-07-19 082402.png ← Dashboard screenshot
+├── dashboard.png                   ← Dashboard screenshot
 ├── sql/                           ← DB setup, cleaning, queries, views, risk scoring
 ├── data/churn_data_cleaned.csv    ← Cleaned dataset
 ├── powerbi/Telecom_Churn_Dashboard.pbix
@@ -76,8 +76,3 @@ At Grameenphone scale (76M subscribers, ARPU Tk 185/mo): ~Tk 29,415 crore annual
 
 MySQL · SQL · Data cleaning & feature engineering · Churn & risk analysis · Power BI & DAX · Executive reporting & ROI modelling
 
-## Author
-
-**[Your Name]** — Aspiring Data Analyst, Bangladesh  ·  📧 your.email@gmail.com  ·  🔗 [LinkedIn](#) | [Portfolio](#)
-
-*Educational/portfolio project using the public IBM Telco dataset. Business figures are illustrative estimates.*
